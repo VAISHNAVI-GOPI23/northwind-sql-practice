@@ -103,3 +103,22 @@ ON Orders.CustomerID = Customers.CustomerID;
 
 ### ✅ Explanation
 This returns a combined table showing each OrderID with the ContactName of the customer who placed the order.
+
+## Key Learnings
+
+✔️ Practiced the `SELECT` statement to retrieve specific columns or all data from tables  
+✔️ Used the `WHERE` clause to filter records based on conditions  
+✔️ Applied `GROUP BY` with aggregate functions like COUNT to summarize grouped data  
+✔️ Learned the difference between `ORDER BY` syntax in SQL Server (`TOP`) and MySQL (`LIMIT`)  
+✔️ Practiced `JOIN` to combine data from multiple tables for meaningful business insights  
+✔️ Strengthened understanding of SQL query structuring and syntax highlighting for clean documentation
+
+## Author
+
+**Vaishnavi Gopi**
+
+Master’s student in Computer Science | Data Analyst & ML Enthusiast
+
+[LinkedIn](https://linkedin.com/in/vaishnavi-gopi) | [GitHub](https://github.com/VAISHNAVI-GOPI23)
+
+
