@@ -36,6 +36,9 @@ The `SELECT` statement is used to **retrieve data from one or more tables** in a
 ```sql
 SELECT * FROM Customers;
 ```
+### 🖼️ Screenshot
+
+![SELECT query output](images/select_query_output.png)
 
 ## WHERE
 ### ➡️ Definition
