@@ -38,7 +38,7 @@ SELECT * FROM Customers;
 ```
 ### 🖼️ Screenshot
 
-![SELECT query output](images/select_query_output.png)
+![select query output](images/select_query_output.png)
 
 ## WHERE
 ### ➡️ Definition
